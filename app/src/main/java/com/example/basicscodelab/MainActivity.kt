@@ -94,7 +94,7 @@ fun GreetingPreview() {
 @Composable
 fun OnboardingScreen(onContinueClicked: () -> Unit,
                      modifier: Modifier = Modifier) {
-//123
+
     Column(
         modifier = modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
